@@ -2,5 +2,12 @@
 name = "seal-test-crate"
 version = "0.1.0"
 edition = "2021"
+license = "Apache-2.0"
+description = "An HTTP API documentation generator for Rust that doesn't care about which HTTP framework you use."
+repository = "https://github.com/hugoponthieu/test-seal-crate"
+homepage = "https://github.com/hugoponthieu/test-seal-crate"
+readme = "README.md"
+keywords = ["http", "api", "documentation", "openapi", "swagger"]
+categories = ["web-programming", "development-tools"]
 
 [dependencies]
